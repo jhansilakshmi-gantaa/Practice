@@ -1,0 +1,9 @@
+<html>
+<head>
+<title> Example of git</title>
+</head>
+<body>
+<h2> Git Practice</h2>
+<p> Practice example of Git commands and katas</p>
+</body>
+</html>
